@@ -1,5 +1,6 @@
+TIC_TAC_TOE❌🅾️
 
-A responsive, animated Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript** 
+A responsive, animated Tic Tac Toe game built using HTML,CSS and JAVASCRIPT 
 with sound effects, win detection logic, and an engaging UI.
 
 📌** Features**
@@ -10,7 +11,6 @@ with sound effects, win detection logic, and an engaging UI.
 - 🌀 Responsive and mobile-friendly layout
 - 🧼 Reset game button
 - ✨ Smooth UI animations
-
 
 🎨 Technologies Used
 HTML5
