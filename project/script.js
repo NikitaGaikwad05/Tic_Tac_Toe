@@ -84,3 +84,4 @@ document.getElementById("reset").addEventListener("click", () => {
         box.classList.remove("win-glow");
     });
 });
+
